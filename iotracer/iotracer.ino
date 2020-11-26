@@ -48,7 +48,7 @@ void loop()
 
 void motorPower(int fb) { //value from 0 to 255, 128 to stop motor
     if(fb == 128)
-      stopMottors();
+      stopMotor();
     else if(fb > 128)
       moveForward(fb);
     else
