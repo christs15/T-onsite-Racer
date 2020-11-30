@@ -1,0 +1,30 @@
+{
+    "CONNECT": {
+        "title": "Bluetooth Devices",
+        "scan": "Connect to IoT-Racer",
+        "disconnect": "Disconnect"
+    },
+    "TABS": {
+        "tab1": "Controll",
+        "tab2": "Menu",
+        "tab3": "The onsite"
+    },
+    "MENU": {
+        "power": "Power",
+        "on": "On",
+        "off": "Off",
+        "ledMode": "ledMode",
+        "rainbow": "Rainbow",
+        "random": "Random",
+        "red": "Red",
+        "orange": "Orange",
+        "yellow": "Yellow",
+        "green": "Green",
+        "lime": "Lime",
+        "blue": "Blue",
+        "purple": "Purple",
+        "magenta": "Magenta",
+        "white": "White",
+        "brightness": "Brightness"
+    }
+}
