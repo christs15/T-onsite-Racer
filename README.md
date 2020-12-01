@@ -47,3 +47,7 @@ To make the T-Racer a bit faster, you can buy a new engine, for example with 900
 
 You can also turn up the step-up converter to 10-12V to get the maximum power out of your motor. 
 Attention: The servo motor has an operating voltage of 5V. According to the wiring diagram, the servo is connected to the output of the step-up. If the step-up is turned up to over 5V, the servo must be replugged. You can then connect the servo motor directly to the battery.
+
+![alt text](images/Schaltplan-breadboard_tuning.png)
+
+
